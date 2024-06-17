@@ -8,4 +8,4 @@
 
 <h3>Demo</h3>
 
-![alt text](/NodeJs-Realtime-Chat-v3.png?raw=true)
+![alt text](/nodejs-react-demo.png?raw=true)
